@@ -26,8 +26,7 @@ This Python project automatically locks your Windows PC when a specific Bluetoot
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/bluetooth-screen-locker.git
-   cd bluetooth-screen-locker
+  https://github.com/NageshMange/Auto-Lock-Using-Bluetooth-Proximity.git
 
 ⚙️ Configuration
 
