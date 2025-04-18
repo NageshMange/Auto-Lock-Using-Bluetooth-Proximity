@@ -24,7 +24,8 @@ This Python project automatically locks your Windows PC when a specific Bluetoot
 
 📦 Installation
 
-1. Clone this repo:
+1. Clone this repository:
+
 https://github.com/NageshMange/Auto-Lock-Using-Bluetooth-Proximity.git
 
 ⚙️ Configuration
