@@ -71,4 +71,8 @@ Ideal for:-
 📝 macOS/Linux support not included due to use of Windows-specific lock API (rundll32.exe).
 
 
+### 🖼️ GUI Preview
+
+![Bluetooth Screen Locker UI](bluetooth-locker-ui.png)
+
 
