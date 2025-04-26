@@ -1,4 +1,4 @@
-# Auto-Lock-Using-Bluetooth-Proximity
+# Auto-Screen-Lock-Using-Bluetooth-Proximity
 
 This Python project automatically locks your Windows PC when a specific Bluetooth device (like your smartwatch or fitness band) goes out of range. It's your digital watchdog—if you're not nearby, your PC locks itself for security. 🕵️‍♂️💻
 
